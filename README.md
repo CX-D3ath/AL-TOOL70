@@ -20,8 +20,8 @@ works on any of the following operating systems:
 
 # How to Install
 * Open the terminal and type `<pkg install git>`
-* Then`<git clone https://github.com/4lbH4cker/ALHacking>`
-* `<cd ALHacking>`
+* Then`<git clone https://github.com/CX-D3ath/AL-TOOL70.git>`
+* `<cd AL-TOOL70>`
 * `<bash alhack.sh>`
 
 
