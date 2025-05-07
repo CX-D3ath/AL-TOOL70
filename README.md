@@ -1,7 +1,7 @@
-Author: 4lbH4cker
+Author: CX-DEATH
 ### Version 4
 
-(![image](https://raw.githubusercontent.com/4lbH4cker/ALHacking/main/alhacking.png)
+(![image](https://e.top4top.io/p_3414cvj7p0.jpg)
 
 # Hacking Tools
 Tools to help you with ethical hacking, Social media hack, phone info, Gmail attack, phone number attack, user discovery, Webcam Hack
@@ -31,4 +31,4 @@ We are not responsible for any misuse or damage caused by this program. Use this
 
 
 ❤️ Support me:
-https://www.paypal.me/Relvllahi
+https://tiktok.com/@natchaaai
