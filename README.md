@@ -8,7 +8,7 @@ Tools to help you with ethical hacking, Social media hack, phone info, Gmail att
 
 • Powerful DDOS attack tool!!
 
-Youtube Video: https://www.youtube.com/watch?v=zgdq6ErscqY
+tiktok Video hammer attack: https://vt.tiktok.com/ZShk9v2mJ/
 # Operating System Requirements
 works on any of the following operating systems:
 
